@@ -1,6 +1,6 @@
 # Honeypot ( Catch The Hacker ) 
 
-<img src="images/hc.png" width="1800" height="800"/>
+<img src="images/hc.png" width="1100" height="560"/>
 
 ## Part-One
 
